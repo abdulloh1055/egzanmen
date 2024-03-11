@@ -1,0 +1,74 @@
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 32px;
+    padding-left: 0;
+}
+
+header  a{
+    text-decoration: none;
+}
+
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.qabul{
+    color: red;
+    border: 2px red solid;
+    padding: 8px 10px;
+    border-radius: 5px;
+}
+
+.qator2{
+    display: flex;
+    position: relative
+}
+
+.intro {
+    background-image: url('./images/intro.png');
+    color: white;
+    font-size: 25px;
+}
+
+.intro .container {
+    display: flex;
+    align-items: center;
+}
+
+.left a{
+    color: white;
+    background-color: red;
+    border: 2px red solid;
+    padding: 8px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.container p{
+    padding-right: 18px;
+}
+
+.xizmatlar-sec h2 {
+    text-align: center;
+}
+
+.xizmat {
+    display: flex;
+}
+
+.qator15{
+    padding-right: 45px;
+}
+
+.qator14{
+    padding-right: 45px;
+}
+
