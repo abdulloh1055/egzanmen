@@ -45,7 +45,7 @@ header .container{
 
 .left a{
     color: white;
-    background-color: red;
+    background-color: rgb(255, 0, 0);
     border: 2px red solid;
     padding: 8px 10px;
     border-radius: 5px;
@@ -71,4 +71,17 @@ header .container{
 .qator14{
     padding-right: 45px;
 }
+header ul a:hover{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
 
